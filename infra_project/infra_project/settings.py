@@ -29,7 +29,6 @@ ALLOWED_HOSTS = ['*']
 
 
 # Application definition
-
 INSTALLED_APPS = [
     'infra_app.apps.InfraAppConfig',
     'django.contrib.admin',
